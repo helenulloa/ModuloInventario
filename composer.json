@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sonatra/ajax": "~1.0"
+    }
+}
+
